@@ -1,28 +1,43 @@
-# MERN-Assessment
+# MERN Assessment
 
-## R1	Description of your website, including:
-- Purpose
-- Functionality / features
-- Target audience
-- Tech stack
-___________________________________________________________________________________________________________
+## AnalyzeVit
 
-## R2	Dataflow Diagram
+A vitamin comparison website.
 
-___________________________________________________________________________________________________________
+by Carlie, Lelani and Tony
 
-## R3	Application Architecture Diagram
+## Purpose
+The purpose of AnalyzeVit is to compare the vitamin content of various vitamins tablets to 
 
-___________________________________________________________________________________________________________
+## Functionality / features
 
-## R4	User Stories	
+Some of the proposed features include:
+* A search function
+* A blog
+* A user login section and the ability to save vitamins to a wishlist/comparison list
 
-___________________________________________________________________________________________________________
+## Target audience
 
-## R5	Wireframes for multiple standard screen sizes, created using industry standard software
+While the expected audience could be vast, the target audience for this MVP is a young, urban professional.
 
-___________________________________________________________________________________________________________
+## Tech stack
+MERN duh.
 
-## R6	Screenshots of your Trello board throughout the duration of the project
+Our tech stack will be:
 
-___________________________________________________________________________________________________________
+Database: Mongo DB
+Backend: Node with Express
+Frontend: React
+
+## Dataflow Diagram
+
+## Application Architecture Diagram
+
+## User Stories
+
+## Wireframes for multiple standard screen sizes, created using industry standard software
+
+## Screenshots of your Trello board throughout the duration of the project
+
+Trello Monday 2 Dec 2019
+![Trello Day 1](docs/trello_2019-12-02.png)
