@@ -1,28 +1,23 @@
-# MERN-Assessment
+# MERN Assessment
+by Carlie, Lelani and Tony
 
-## R1	Description of your website, including:
-- Purpose
-- Functionality / features
-- Target audience
-- Tech stack
-___________________________________________________________________________________________________________
+## Purpose
 
-## R2	Dataflow Diagram
+## Functionality / features
 
-___________________________________________________________________________________________________________
+## Target audience
 
-## R3	Application Architecture Diagram
+## Tech stack
 
-___________________________________________________________________________________________________________
+## Dataflow Diagram
 
-## R4	User Stories	
+## Application Architecture Diagram
 
-___________________________________________________________________________________________________________
+## User Stories
 
-## R5	Wireframes for multiple standard screen sizes, created using industry standard software
+## Wireframes for multiple standard screen sizes, created using industry standard software
 
-___________________________________________________________________________________________________________
+## Screenshots of your Trello board throughout the duration of the project
 
-## R6	Screenshots of your Trello board throughout the duration of the project
-
-___________________________________________________________________________________________________________
+Trello Monday 2 Dec 2019
+![Trello Day 1](docs/trello_2019-12-02.png)
