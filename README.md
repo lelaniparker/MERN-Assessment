@@ -1,10 +1,14 @@
 # MERN Assessment
 
+## Authors
+
+* **Carlie Hamilton** - [BlueCodeThree](https://github.com/BlueCodeThree)
+* **Lelani Parker** - [Lelani82](https://github.com/Lelani82)
+* **Tony Huynh** - [t-hnh10](https://github.com/t-hnh10)
+
 ## AnalyzeVit
 
 A vitamin comparison website.
-
-by Carlie, Lelani and Tony
 
 ## Purpose
 The purpose of AnalyzeVit is to compare the vitamin content of various vitamins tablets to 
@@ -44,3 +48,6 @@ Monday 2 Dec 2019
 
 Tuesday 3 Dec 2019
 ![Trello Day 2](docs/trello_2019-12-03.jpg)
+
+Wednesday 4 Dec 2019
+![Trello Day 3](docs/trello_2019-12-04.jpg)
