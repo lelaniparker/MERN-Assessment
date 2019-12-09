@@ -67,6 +67,8 @@ To assist with the writing of User Stories, User Personas were created in order 
 
 ## Wireframes
 
+![Wireframes](docs/Wireframes.png)
+
 ## Trello Board Screenshots
 
 Monday 2 Dec 2019
