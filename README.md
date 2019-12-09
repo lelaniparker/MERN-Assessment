@@ -16,24 +16,38 @@ It is often an incredibly overwhelming experience when comparing multiple vitami
 
 ### Functionality / Features
 
-Some of the proposed features include:
+AnalyzeVit will consist of several features as outlined below.
 
-* A search function
-* A blog
-* A user login section and the ability to save vitamins to a wishlist/comparison list
+#### Search Function
+
+A search function will allow the user to seek information regarding a certain vitamin. The website will query the database and return a list of products that contain said vitamin. The results will be presented in an order that will allow the user to determine which products contain a significant amount of the vitamin or other ingredient they are interested in.
+
+#### Blog
+
+The website will contain a blog function to allow trusted health professionals to provide nutritional information and advice. This is aimed at those who are new to the use of vitamins and supplements. It is an important feature in providing a complete experience for users who wish to learn about vitamins, nutrition and health in general.
+
+#### User Dashboard / Wishlist
+
+Once a user has signed up for an account with AnalyzeVit, they will be able to login to a user dashboard. Here, users will be able to change their details or subscribe to the newsletter should they wish to stay updated with the website's new features or offers that may be provided.
+
+An important feature of having a user account will include being able to maintain a wishlist consisting of vitamin and supplement products. The choice of vitamins on the market is astounding and consumers are often inundated with very similar products. Having researched various products on AnalyzeVit, they can directly add items they are interested in directly to the inbuilt wishlist. This will negate the need to maintain notes elsewhere and centralise all of the user's needs in one place.
 
 ### Target Audience
 
-While the expected audience could be vast, the target audience for this MVP is a young, urban professional.
+AnalyzeVit recognises a market that encompasses two groups of people who benefit from being informed about vitamins and health supplements.
+
+The first group consists of young, urban professionals who are often too busy to place health as a primary concern. This is where the simplicity and usability of AnalyzeVit will benefit this particular group as they often seek sources of information that are as concise and easy to understand as possible. This group also has a tendency to use their mobile devices often and have considerable technical knowledge in using navigating more complex features.
+
+The second group consists of fathers and mothers who, often after giving birth, struggle to balance the responsibilities of caring for their child, and ensuring the health and wellbeing of their family members. This group tends to struggle with overly technical features as they consider them complicated. Thus, they appreciate having simple tools and features.
 
 ## Tech Stack
 
-MERN duh.
+![Tech Stack](docs/mern.jpg)
 
-Our tech stack will be:
+Database: MongoDB
 
-Database: Mongo DB
-Backend: Node with Express
+Backend: Node.js & Express.js
+
 Frontend: React
 
 ## Dataflow Diagram
