@@ -83,6 +83,9 @@ Wednesday 4 Dec 2019
 Monday 9 Dec 2019
 ![Trello Day 4](docs/trello_2019-12-09.jpg)
 
+Tuesday 10 Dec 2019
+![Trello Day 5](docs/trello_2019-12-10.jpg)
+
 ## Planning Methodology
 
 The **Kanban methodology** is the framework of choice for this project, allowing us to implement Agile software development while benefitting from planning flexibility, shortened time cycles, fewer bottlenecks and continuous delivery.
