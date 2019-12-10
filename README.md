@@ -44,11 +44,11 @@ The second group consists of fathers and mothers who, often after giving birth, 
 
 ![Tech Stack](docs/mern.jpg)
 
-Database: MongoDB
+Database: [MongoDB](https://www.mongodb.com/)
 
-Backend: Node.js & Express.js
+Backend: [Node.js](https://nodejs.org/en/) & [Express.js](https://expressjs.com/)
 
-Frontend: React
+Frontend: [React](https://reactjs.org/)
 
 ## Dataflow Diagram
 
@@ -67,6 +67,8 @@ To assist with the writing of User Stories, User Personas were created in order 
 
 ## Wireframes
 
+![Wireframes](docs/Wireframes.png)
+
 ## Trello Board Screenshots
 
 Monday 2 Dec 2019
@@ -78,4 +80,21 @@ Tuesday 3 Dec 2019
 Wednesday 4 Dec 2019
 ![Trello Day 3](docs/trello_2019-12-04.jpg)
 
+Monday 9 Dec 2019
+![Trello Day 4](docs/trello_2019-12-09.jpg)
+
 ## Planning Methodology
+
+The **Kanban methodology** is the framework of choice for this project, allowing us to implement Agile software development while benefitting from planning flexibility, shortened time cycles, fewer bottlenecks and continuous delivery.
+
+For this project, the development team has decided to use [Trello](https://trello.com/). It is a fast and simple way to create a digital Kanban board.
+
+|  | Standard |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cadence | Continuous flow, no fixed time sprints allowing for flexible time management. |
+| Release Methodology | Continuous delivery, deployment will occur regularly as features are completed. |
+| Roles | No required roles, development team will work together by pair programming. Members will self-assign tasks from the Kanban board as they are required. |
+| Key Metrics | Cycle time team spends working on a particular task. Should a task require more than three days, at least two members will work on that particular task together. |
+| Change Philosophy | Change can occur at any time, team members will ensure Kanban board remains current throughout project. |
+| Stand-ups | The team is to hold a stand-up each working day of a development cycle. <br>What did I do yesterday? What will I do today? Are there any impediments in my way? |
+| Source Control | Feature Branch Workflow. Code changes are made in feature branches instead of the master branch, using a single central repository owned by [Lelani](https://github.com/Lelani82). Once changes are committed to a local repository and pushed to feature branch, the team member responsible will create a pull request on GitHub. At least one other team member will review the changes in the pull request. In the absence of issues, these changes can be merged into the master branch by any team member. |
