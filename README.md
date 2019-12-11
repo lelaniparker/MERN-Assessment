@@ -110,6 +110,9 @@ Monday 9 Dec 2019
 Tuesday 10 Dec 2019
 ![Trello Day 5](docs/trello_2019-12-10.jpg)
 
+Wednesday 11 Dec 2019
+![Trello Day 5](docs/trello_2019-12-11.jpg)
+
 ## Planning Methodology
 
 The **Kanban methodology** is the framework of choice for this project, allowing us to implement Agile software development while benefitting from planning flexibility, shortened time cycles, fewer bottlenecks and continuous delivery.
@@ -125,3 +128,4 @@ For this project, the development team has decided to use [Trello](https://trell
 | Change Philosophy | Change can occur at any time, team members will ensure Kanban board remains current throughout project. |
 | Stand-ups | The team is to hold a stand-up each working day of a development cycle. <br>What did I do yesterday? What will I do today? Are there any impediments in my way? |
 | Source Control | Feature Branch Workflow. Code changes are made in feature branches instead of the master branch, using a single central repository owned by [Lelani](https://github.com/Lelani82). Once changes are committed to a local repository and pushed to feature branch, the team member responsible will create a pull request on GitHub. At least one other team member will review the changes in the pull request. In the absence of issues, these changes can be merged into the master branch by any team member. |
+| Client Communication | The team is communicating with the client through the use of Slack. Correspondence is to occur at a minimum of once a week. |
