@@ -46,13 +46,33 @@ The second group consists of fathers and mothers who, often after giving birth, 
 
 Database: [MongoDB](https://www.mongodb.com/)
 
+MongoDB is a general purpose, document-based, distributed database that stores data in JSON-like documents. As a NoSQL database, it defies the complexity and limitations of traditional, legacy relational databases.
+
+The benefits of using MongoDB include:
+
+* efficient, scale-out architecture;
+* the ability to handle high volumes of structured, semi-structured, and unstructured data – particularly useful to data sets that do not confirm to strict standards; and
+* being schema-less meaning it works well with today's software development methodologies that involve agile sprints and frequent code pushes.
+
 Backend: [Node.js](https://nodejs.org/en/) & [Express.js](https://expressjs.com/)
+
+Express is a minimal and flexible Node.js web application framework that provides a large set of features for web applications.
+
+The development team decided to use Express due to it having a myriad of HTTP utility methods and middleware. Express also provides a thin layer of fundamental web application features, without obscuring Node.js features.
 
 Frontend: [React](https://reactjs.org/)
 
+React is a JavaScript library for building user interfaces.
+
+One of several important features of React include the ability to create components to quickly and efficiently build user interfaces. React also streamlines how data is stored and handled, using state and props.
+
 ## Dataflow Diagram
 
+![Dataflow Diagram](docs/DataflowDiagram.png)
+
 ## Application Architecture Diagram
+
+![Application Architecture Diagram](docs/ApplicationArchitecture.png)
 
 ## User Stories
 
@@ -68,6 +88,10 @@ To assist with the writing of User Stories, User Personas were created in order 
 ## Wireframes
 
 ![Wireframes](docs/Wireframes.png)
+
+## User Flow Diagram
+
+![User Flow Diagram](docs/UserFlowDiagram.png)
 
 ## Trello Board Screenshots
 
